@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ASSOCIATION:jar5">
+    <output-path>$PROJECT_DIR$/out/artifacts/ASSOCIATION_jar5</output-path>
+    <root id="archive" name="ASSOCIATION.jar">
+      <element id="module-output" name="ASSOCIATION_MANAGEMENT" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/ASSOCIATION_MANAGEMENT/lib/mysql-connector-java-8.0.29.jar" path-in-jar="/" />
+      <element id="library" level="project" name="lib" />
+    </root>
+  </artifact>
+</component>
